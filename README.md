@@ -4,6 +4,7 @@
 ## Results
 ###### We were introduced to VBA with a step by step tutorial of the structure of the code that outlined how to construct an input box, initialize formatting, designate ticker arrays, and how to activate the appropriate worksheets. I've attached my final code below:
 ###### Sub AllStocksAnalysisRefactored()
+    Sub AllStocksAnalysisRefactored()    
     Dim startTime As Single
     Dim endTime  As Single
 
@@ -127,6 +128,7 @@
  
     endTime = Timer
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
+    End Sub
 
 End Sub
 ## Summary
