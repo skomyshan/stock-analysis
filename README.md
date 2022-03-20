@@ -1,5 +1,7 @@
 # stock-analysis
-## Overview of Project
+###Overview of Project
+
+##Purpose
 #### We were tasked with assisting Steve in determining what stocks were worth recommending to his parents as investment options. In this project we edited, or refactored, code to loop through data. We compared the length of time it took to run the initial code versus the refactored code, confirming that refactoring code not only makes it run more efficiently but also more quickly. By taking few steps and using less memory, we make the code easier for us to use as well as future users.
 
 ## Results
