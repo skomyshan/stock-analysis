@@ -23,10 +23,18 @@
 <img width="270" alt="2018refactable" src="https://user-images.githubusercontent.com/96352751/159190941-d5888a4e-e629-4247-8992-f145c8324dd9.png">
 <img width="270" alt="2018refac" src="https://user-images.githubusercontent.com/96352751/159190888-05d8d7bc-c78c-4347-8e06-90e3c7dba344.png">
 
-
-
 ## Summary
-#### Refactoring definitely consolidates and makes code run faster and smoother. It's convenient to see everything in one window and makes the code easier to read and debug if need be.
-#### Although my macro returned results fasterm as an inexperienced coder, dispersing the code and designating different modules for different functions is more simple. Concatenating and ensuring code follows syntax is one of the issues I encountered during the module.
-## Advantage of Refactoring
-#### 
+
+### Stock analysis outputs for 2017 and 2018 are the same as the dataset example provided. In the resources folder are the message-boxes showing elapsed run time for the refactored code. 
+
+**Disadvantages:**
+
+> - Refactoring may affect the testing outcomes.
+> - Logical structures may be duplicated in two or more lines of code.
+> - Ideally, complex code should be split in several functions.
+
+**Advantages:**
+
+> - Allows us to more easily detect logical errors.
+> - For the purposes of this project, the code is not tied to the order in which it is written.
+> - The code is easier to maintain, easy to change, and easy to understand.  
